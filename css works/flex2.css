@@ -1,0 +1,28 @@
+.parent{
+    width: 550px;
+    height: 310px;
+    background-color: cornflowerblue;
+    display: flex;
+}
+.col{
+    width: 50px;
+    height: 200px;
+    padding:15px ;
+}
+.div1{
+    background-color: cyan;
+    flex: 1;
+}
+.div2{
+    background-color: darkgoldenrod;
+    flex: 2;
+}
+.div3
+{
+    background-color: palevioletred;
+    flex: 3;
+}
+.div4{
+    background-color: purple;
+    flex: 1;
+}

@@ -1,0 +1,154 @@
+.div1{
+    border: 1px solid black;
+    background-color:red;
+    width: 721px;
+    height: 600px;
+    position: relative;
+}
+.first{
+    background-color: palevioletred;
+    border: 1px solid red;
+    width: 150px;
+    height: 600px;
+    position: absolute;
+  
+    
+}
+.sec{
+    background-color: rgb(72, 223, 41);
+    border: 1px solid red;
+    width: 150px;
+    height: 600px;
+    position: absolute;
+    left: 112px;
+}
+.third{
+    background-color: rgb(80, 49, 223);
+    border: 1px solid red;
+    width: 150px;
+    height: 598px;
+    position: absolute;
+    left: 264px;
+    
+}
+.fourth{
+    background-color: rgb(212, 126, 28);
+    border: 1px solid red;
+    width: 150px;
+    height: 600px;
+    left: 417px;
+    position: absolute;
+    
+}
+.fifth{
+    background-color: palevioletred;
+    border: 1px solid red;
+    width: 150px;
+    height: 598px;
+    position: absolute;
+    left: 569px;
+}
+.div2{
+    border: 1px solid black;
+    background-color:red;
+    width: 721px;
+    height: 600px;
+    position: relative;
+    top: 33px;
+    left: 10px;
+}
+.first1{
+    background-color: palevioletred;
+    border: 1px solid red;
+    width: 150px;
+    height: 600px;
+    position: absolute;
+  
+    
+}
+.sec2{
+    background-color: rgb(72, 223, 41);
+    border: 1px solid red;
+    width: 150px;
+    height: 600px;
+    position: absolute;
+    left: 112px;
+}
+.third3{
+    background-color: rgb(80, 49, 223);
+    border: 1px solid red;
+    width: 150px;
+    height: 598px;
+    position: absolute;
+    left: 264px;
+    
+}
+.fourth4{
+    background-color: rgb(212, 126, 28);
+    border: 1px solid red;
+    width: 150px;
+    height: 600px;
+    left: 417px;
+    position: absolute;
+    
+}
+.fifth5{
+    background-color: palevioletred;
+    border: 1px solid red;
+    width: 150px;
+    height: 598px;
+    position: absolute;
+    left: 569px;
+}
+.div3{
+    border: 1px solid black;
+    background-color:red;
+    width: 721px;
+    height: 600px;
+    position: relative;
+    top: -1206px;
+    left: 739px;
+}
+.first11{
+    background-color: palevioletred;
+    border: 1px solid red;
+    width: 150px;
+    height: 600px;
+    position: absolute;
+  
+    
+}
+.sec22{
+    background-color: rgb(72, 223, 41);
+    border: 1px solid red;
+    width: 150px;
+    height: 600px;
+    position: absolute;
+    left: 112px;
+}
+.third33{
+    background-color: rgb(80, 49, 223);
+    border: 1px solid red;
+    width: 150px;
+    height: 598px;
+    position: absolute;
+    left: 264px;
+    
+}
+.fourth44{
+    background-color: rgb(212, 126, 28);
+    border: 1px solid red;
+    width: 150px;
+    height: 600px;
+    left: 417px;
+    position: absolute;
+    
+}
+.fifth55{
+    background-color: palevioletred;
+    border: 1px solid red;
+    width: 150px;
+    height: 598px;
+    position: absolute;
+    left: 569px;
+}

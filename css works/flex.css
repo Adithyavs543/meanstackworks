@@ -1,0 +1,26 @@
+.parent{
+    width: 600px;
+    height: 310px;
+    background-color: salmon;
+    display: flex;
+    /* justify-content:flex end; */
+    /* align-items: center; */
+    justify-content: space-evenly;
+}
+.col{
+    width: 100px;
+    height: 300px;
+
+}
+.col1{
+    background-color: springgreen;
+}
+.col2{
+    background-color: purple;
+}
+.col3{
+    background-color: red;
+}
+.col4{
+    background-color: yellow;
+}

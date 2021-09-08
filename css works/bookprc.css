@@ -1,0 +1,34 @@
+.parent
+{
+    border: 1px solid black;
+    background-color: rgb(230, 225, 235);
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin left: 10px;
+}
+.pic{
+    width: 250px;
+    height: 599px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.pic img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    padding:30px;
+}
+button{
+    border: 1px;
+    background-color: coral;
+    color: darkgrey;
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    
+}p{
+    text-align: justify;
+}

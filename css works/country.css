@@ -1,0 +1,51 @@
+.parent{
+    width:70%;
+    height:368px;
+    border:1px;
+    float:left;
+    border-color: darkslategrey;
+    border-style: solid;
+    margin-top: 50px;
+    justify-content: space-around;
+    display: flex;
+    margin-left: 100px;
+}
+img{
+    width:200px;
+    border-radius: 10px;
+
+    height:200px;
+    padding: 20px;
+}
+.div1{
+    width:23%;
+    height:299px;
+    border:1px;
+    float:left;
+    border-color: darkslategrey;
+    background-color: burlywood;
+    border-style: solid;
+    margin-top: 50px;
+    justify-content: space-between;
+    margin-left: 10px;
+    color: white;
+    text-align:center;
+}
+h1{
+    text-align: center;
+    color: yellow;
+    text-decoration: underline;
+}
+header{
+    display: flex;
+    width: 100%;
+    background-color: blue;
+    justify-content: space-evenly;
+    height: 50px;
+    align-items: center;
+}
+header a{
+color: white;
+padding: 100px;
+text-decoration: none;
+}

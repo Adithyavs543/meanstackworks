@@ -1,0 +1,32 @@
+.div{
+    border: 2px solid red;
+    background-color: royalblue;
+    width: 600px;
+    height: 300px;
+    /* position: relative; */
+    display:flex;
+    justify-content: center;
+    justify-content: space-between;
+
+    
+
+}
+.div1{
+    border: 7px solid greenyellow;
+    background-color: purple;
+    width: 150px;
+    height: 280px;
+    
+}
+.div2{
+    border: 7px solid greenyellow;
+    background-color: rgb(0, 128, 17);
+    width: 150px;
+    height: 280px;
+}
+.div3{
+    border: 7px solid greenyellow;
+    background-color: rgb(221, 112, 10);
+    width: 150px;
+    height: 280px;
+}

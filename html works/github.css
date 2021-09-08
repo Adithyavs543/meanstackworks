@@ -1,0 +1,16 @@
+.div1{
+    width: 300px;
+    height: 200px;
+    background-color:rgb(221, 238, 224);
+}
+button{
+    background-color: green;
+    border: 1px solid black;
+    width: 120px;
+    height: 20px;
+    color: cornsilk;
+}
+.first{
+    width: 300px;
+    height: 200px;
+}
